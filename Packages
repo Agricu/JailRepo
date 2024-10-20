@@ -33,18 +33,18 @@ Name: AwemeDisableBar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
 
 Package: com.netskao.awemedownloadmedia
-Version: 1.1-7
+Version: 1.1-8
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 436
+Installed-Size: 456
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.awemedownloadmedia_1.1-7_iphoneos-arm64.deb
-Size: 112092
-MD5sum: aba032b793596a87a970f022516561d5
-SHA1: 0f44d45d5a257a7a4cbd1b605ba141ce0d10106f
-SHA256: 711904b5a1ed63346e13c795a33a1d29ca73d911fdd9c6bade694d14f10ba2a3
+Filename: ./debs/com.netskao.awemedownloadmedia_1.1-8_iphoneos-arm64.deb
+Size: 147408
+MD5sum: 9dfc1e19eca0cf3ed1d15970080ea259
+SHA1: c44750e113c948f126e963b28f5a919e73085175
+SHA256: 7c4c1321d3cba56e64f2913b0596344eb1422b1a3e66a5590430990aad0caa1e
 Section: Netskao-Tweaks
-Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
+Description: Aweme No Watermark Download Media. Tested only on version 31.7.0 and above
 Author: Netskao
 Name: AwemeDownloadMedia
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedownloadmedia.json
