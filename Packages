@@ -307,18 +307,18 @@ Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
 
 Package: it.ned.noappthinning
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: ned
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/it.ned.noappthinning_1.2_iphoneos-arm64.deb
-Size: 3724
-MD5sum: b046f70ed663cc83b1719d44f17f9a0f
-SHA1: 2efaf76f9a035eaf17169fe13ba10727ea424805
-SHA256: 2ccf8aebd99df2175a737626dbcf01831340b5d30eafe6097e900796dd5eb973
+Filename: ./debs/it.ned.noappthinning_1.3_iphoneos-arm64.deb
+Size: 3800
+MD5sum: f9991aa42366e0c600b94aa188637a49
+SHA1: 4308fb54ef3555bf1335a82a1225b556d4abdcf1
+SHA256: 3d6d74fa0ac82110c005ab713b195df4a6104de31f258fbd728758182aa9c9ba
 Section: Other-Tweaks
-Description: Disable AppStore/TestFlight app thinning - by level3tjg
+Description: Disable AppStore app thinning - by level3tjg, TestFlight app thinning - by Netskao
 Author: ned
 Name: NoAppThinning
 Sileodepiction: https://jailrepo.initnil.com/Depictions/it.ned.noappthinning.json
