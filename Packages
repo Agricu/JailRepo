@@ -359,16 +359,16 @@ Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
 
 Package: com.netskao.wechatuiswitchloader
-Version: 1.1-2
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 464
+Installed-Size: 240
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-2_iphoneos-arm64.deb
-Size: 139800
-MD5sum: 1b218149a4a0dab4671a9d4fd6e00339
-SHA1: 50acfce1b31dc12c7f48d034078009eb651bbf33
-SHA256: 27e28372d8a797a8dede0e328f6525d7e1f813133dfc3f10354ae320396848fb
+Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-3_iphoneos-arm64.deb
+Size: 91332
+MD5sum: c469ec676355b7a7393435b923cf028d
+SHA1: b383fb26cb80ade79b71206eb0d2aa298b635249
+SHA256: 25af93ba4042028cef2e2f89e4f1c732c9171853e4c8ead1ac58694a69b564a0
 Section: Netskao-Tweaks
 Description: WeChat UISwitch Loader
 Author: Netskao
